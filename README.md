@@ -1,14 +1,27 @@
 # EvelynTesteApi
-##Código da conexão da API (própria) com as telas relacionadas. 
->A API ainda não está hospedada, portanto, não retornará dados e no momento não existe URL.
-O repositório tem como objetivo apresentar apenas o código de conexão que será utilizado futuramente. 
-
-Tela Autora - dados recebidos da API: nome, biografia, premios e outros livros;
-
-# API Evelyn Hugo
 Beatriz Chagas e Elis Torres – 3° DS ETIM | Professora: Aline F. Brito
 
->Interface de Programação de Aplicação voltada para a elaboração do aplicativo com a temática do livro "Os Sete Maridos de Evelyn Hugo"
+Aplicativo desenvolvido como fonte de informações sobre o livro 'Os sete maridos de evelyn hugo', 
+com o objetivo de ser uma ferramenta auxiliar para os fans do livro em geral.
+No app, encontramos: 
+
+1. Informações sobre cada marido; 
+1. Infomação sobre Célia;
+1. Informação sobre a autora do livro; 
+1. filmes citados no livro;
+1. pesquisa de outros livros com api do google books 
+e etc.
+
+
+
+## Código da conexão da API (própria) com as telas relacionadas pode ser encontrado na pasta localizada na branche main. 
+
+>A API ainda não está hospedada, portanto, não retornará dados e no momento não existe URL.
+O repositório tem como objetivo apresentar apenas o código de conexão que será utilizado futuramente.
+
+
+Dados vindos da API: </br>
+Tela Autora - dados recebidos da API: nome, biografia, premios e outros livros;
 
 </br>
 
