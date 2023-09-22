@@ -1,5 +1,7 @@
 # EvelynTesteApi
-Código da conexão da API (própria) com as telas relacionadas. 
+##Código da conexão da API (própria) com as telas relacionadas. 
+>A API ainda não está hospedada, portanto, não retornará dados e no momento não existe URL.
+O repositório tem como objetivo apresentar apenas o código de conexão que será utilizado futuramente. 
 
 Tela Autora - dados recebidos da API: nome, biografia, premios e outros livros;
 
